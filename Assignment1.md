@@ -1,29 +1,17 @@
-# 📘 Assignment: Git & GitHub Essentials & HTML Basics
-
-**Instructor:** Lucky Nakola  
-**Platform:** GitHub (Branch workflow)  
-**Submission:** Git Branch (PR)  
-**Total Marks:** **100**
-
----
-
+# 📘 Assignment 1: Git & GitHub Essentials & HTML Basics
 ## 🎯 Objective
 - Understand Git & GitHub collaboration workflows
 - Practice working with branches (team-like workflow)
 - Learn basic HTML structure and documentation best practices
 
 ---
-
 ## 🚨 Important (Read Carefully)
 - ❌ **Do NOT** create your own repository.
 - ✅ **You MUST** work using a **branch** in the instructor's repository named: `student-yourfullname`.
 
 Failure to follow this rule may result in mark deductions.
 
----
-
 ## 🧩 Part A — Git & GitHub Essentials (40 marks)
-
 ### Task 1 — Fork & Clone (10 marks)
 - Fork the instructor repository to your GitHub account.
 - Clone your fork locally:
@@ -55,9 +43,7 @@ Good examples:
 Bad examples: `final`, `changes`, `update`
 
 ---
-
 ## 🌐 Part B — HTML Basics Project (60 marks)
-
 ### Task 4 — Project Folder (10 marks)
 - Create a folder named exactly as your branch: `student-yourfullname/`.
 - Place **all** your files inside this folder.
@@ -99,33 +85,24 @@ HTML requirements:
 - Use headings, paragraphs, lists, and links appropriately
 
 ---
-
 ## 🧪 Bonus (Optional — up to 10 marks)
 - Add basic CSS styles
 - Improve layout and navigation styling
 - Add images and improve accessibility
 
 ---
-
 ## 🚀 Final Submission Steps (Mandatory)
 1. Verify you're on your branch:
-
-```bash
 git branch
-```
 
 2. Push your branch:
-
-```bash
 git push origin student-yourfullname
-```
 
 3. Open a Pull Request (PR):
 - Base branch: `main`
 - Compare branch: `student-yourfullname`
 - PR title: `Git & HTML Assignment – Your Full Name`
 - ❌ **Do NOT** merge your PR — the instructor will review and merge it.
-
 ---
 
 ## 🧑‍🏫 Marking Criteria
@@ -140,7 +117,6 @@ git push origin student-yourfullname
 | **Total**                  | **100** |
 
 ---
-
 ## ⚠️ Common Mistakes to Avoid
 - Working on the `main` branch
 - Submitting without creating a PR
@@ -148,5 +124,4 @@ git push origin student-yourfullname
 - Placing files outside your student folder
 
 ---
-
 > Treat your branch like your personal workspace and your PR like a job submission. Good luck! ✅
